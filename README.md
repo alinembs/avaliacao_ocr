@@ -22,7 +22,7 @@ Repositório da Task para Avaliar ferramentas de Extração de Texto
 
  #### Resultados do Tempo
   
-| Ferramenta | Tempo  em segundos| 
+| Ferramenta | Tempo em segundos| 
 |    :---:   |  :---:    |  
 |   Pytesseract |     4085,82     | 
 |   PDFX    |       49,07    |  
@@ -52,7 +52,7 @@ Repositório da Task para Avaliar ferramentas de Extração de Texto
 | PyMuPDF     |8,12%      | 8,94%     | 25,90%   | 9,79%   | 0,34%    | $$\pm$$ 9.34  | 10,61% |
 | PyPdf2      | 8,14%     | 11,51%    |  25,95%  | 9,90%   | 0,33%    | $$\pm$$ 9.31  | 11,16% |
 
-## Discursão 
+## Discussão
 
 Quando se trata de precisão do OCR, duas métricas objetivas são usadas para avaliar o quão confiável é o OCR: Taxa de erros de caracteres (CER) e Taxa de erros de palavras (WER).
 O cálculo do CER é baseado no conceito de distância de Levenshtein, onde contamos o número mínimo de operações em nível de caractere necessárias para transformar o texto verdadeiro na saída de OCR.
@@ -70,5 +70,5 @@ O WER está geralmente bem correlacionado com o CER (desde que as taxas de erro 
 A partir dos Resultados dos Experimentos, a Ferramenta PyMuPDF obteve as melhores metricas, sendo extremamente rápida em seu tempo total na extração de todos os documentos , e tendo as menores médias e desvio padrão de erro CER ,tendo uma precisão de 97,80%. 
 
 ## Referência
-[1] TIMALSINA, AMIT.Analysis and Benchmarking of OCR Accuracy for Data Extraction Models.DOCSUMO.2023.Avaiable: https://www.docsumo.com/blog/ocr-accuracy
+[1] TIMALSINA, AMIT.Analysis and Benchmarking of OCR Accuracy for Data Extraction Models.DOCSUMO.2023.Available online: https://www.docsumo.com/blog/ocr-accuracy
 
