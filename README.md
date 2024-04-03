@@ -1,4 +1,4 @@
-# Avaliacao OCR 
+# Comparação de Ferramentas de Extração Texto voltadas para o contexto jurídico
 Repositório da Task para Avaliar ferramentas de Extração de Texto
  #### Ferramentas Usadas
   
