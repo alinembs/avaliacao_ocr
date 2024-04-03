@@ -9,7 +9,7 @@ Repositório da Task para Avaliar ferramentas de Extração de Texto
 | PyMuPDF| TS |
 | PyPdf2| TS |
 
- #### Documentos Usados para o teste
+ #### Documentos Usados para a 1ª Base de Dados
 
 | Dataset|   Documento |    Link      | Nº de Paginas |
 | :---:  |    :---:    |     :---:    |  :---:        |
